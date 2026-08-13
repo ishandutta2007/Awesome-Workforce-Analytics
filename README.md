@@ -1,6 +1,6 @@
 # Awesome-Workforce-Analytics
 
-# Top Workforce Analytics Tools Ecosystem
+## Top Workforce Analytics Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on People Analytics, Workforce Insights, Attrition Prediction & Organizational Intelligence*
 **Last updated: August 2026**
